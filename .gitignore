@@ -6,3 +6,4 @@ __pycache__/
 GMB-HANDOFF.md
 registry.json
 *.log
+.vercel

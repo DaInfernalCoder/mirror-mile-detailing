@@ -1,0 +1,8 @@
+.DS_Store
+Icon?
+.vercel/
+assets/images/originals/
+__pycache__/
+GMB-HANDOFF.md
+registry.json
+*.log
